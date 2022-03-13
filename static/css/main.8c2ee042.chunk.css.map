@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Tabs.scss"],"names":[],"mappings":"AAAA,MACE,YAAa,CACb,eAAgB,CAChB,oBAAqB,CAErB,YACE,aAAc","file":"main.8c2ee042.chunk.css","sourcesContent":[".list {\n  display: flex;\n  list-style: none;\n  text-decoration: none;\n\n  &__item {\n    display: block;\n  }\n}\n"]}
